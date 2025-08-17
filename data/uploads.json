@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a05262bf-5e41-48c5-b48f-b8eb1aed0f71",
+    "filename": "1755109838983_a05262bf-5e41-48c5-b48f-b8eb1aed0f71_RFP_CP-730126_Generative_AI_RFP.pdf",
+    "url": "/uploads/1755109838983_a05262bf-5e41-48c5-b48f-b8eb1aed0f71_RFP_CP-730126_Generative_AI_RFP.pdf",
+    "vehicleId": "v4",
+    "docType": "Registration",
+    "expiry": "2026-08-13",
+    "notes": null,
+    "uploadedAt": "2025-08-13T18:30:38.985Z"
+  },
+  {
+    "id": "d5bac46c-72e0-4a4d-a9d4-4a895d934f64",
+    "filename": "1755052147718_d5bac46c-72e0-4a4d-a9d4-4a895d934f64_2024_fall_lecture0-720p-en.txt",
+    "url": "/uploads/1755052147718_d5bac46c-72e0-4a4d-a9d4-4a895d934f64_2024_fall_lecture0-720p-en.txt",
+    "vehicleId": "v1",
+    "docType": "PM Service",
+    "expiry": "2026-04-17",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:29:07.719Z"
+  },
+  {
+    "id": "fe86a925-0ac2-4a9e-b600-098142e49ae5",
+    "filename": "1755052118830_fe86a925-0ac2-4a9e-b600-098142e49ae5_2024_fall_lecture0-720p-en.txt",
+    "url": "/uploads/1755052118830_fe86a925-0ac2-4a9e-b600-098142e49ae5_2024_fall_lecture0-720p-en.txt",
+    "vehicleId": "v1",
+    "docType": "CVOR",
+    "expiry": "2026-04-04",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:28:38.830Z"
+  },
+  {
+    "id": "d3bf14c2-6ab1-4f8d-bac4-6891bdc0d84b",
+    "filename": "1755051675151_d3bf14c2-6ab1-4f8d-bac4-6891bdc0d84b_2024_fall_lecture0-720p-en.txt",
+    "url": "/uploads/1755051675151_d3bf14c2-6ab1-4f8d-bac4-6891bdc0d84b_2024_fall_lecture0-720p-en.txt",
+    "vehicleId": "v1",
+    "docType": "CVOR",
+    "expiry": "2026-02-07",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:21:15.151Z"
+  },
+  {
+    "id": "cb1bff51-c66f-45d7-8195-cc44a867ad46",
+    "filename": "1755051066830_cb1bff51-c66f-45d7-8195-cc44a867ad46_2024_fall_lecture0-720p-en.txt",
+    "url": "/uploads/1755051066830_cb1bff51-c66f-45d7-8195-cc44a867ad46_2024_fall_lecture0-720p-en.txt",
+    "vehicleId": "v1",
+    "docType": "CVOR",
+    "expiry": "2026-02-27",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:11:06.831Z"
+  },
+  {
+    "id": "70af7f38-db8b-4e00-b256-2ab1e67c8741",
+    "filename": "1755050896543_70af7f38-db8b-4e00-b256-2ab1e67c8741_ACU-records-at-08-July-2025.pdf",
+    "url": "/uploads/1755050896543_70af7f38-db8b-4e00-b256-2ab1e67c8741_ACU-records-at-08-July-2025.pdf",
+    "vehicleId": "v1",
+    "docType": "CVOR",
+    "expiry": "2026-05-02",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:08:16.544Z"
+  },
+  {
+    "id": "9ea716e6-7a61-47e4-ad87-72ce9c30022b",
+    "filename": "1755050873361_9ea716e6-7a61-47e4-ad87-72ce9c30022b_DM1752_879_67_FY25P0047_AI_Writing_Tool_for_Special_Education_Reports.pdf",
+    "url": "/uploads/1755050873361_9ea716e6-7a61-47e4-ad87-72ce9c30022b_DM1752_879_67_FY25P0047_AI_Writing_Tool_for_Special_Education_Reports.pdf",
+    "vehicleId": "v1",
+    "docType": "Inspection",
+    "expiry": "2026-05-15",
+    "notes": null,
+    "uploadedAt": "2025-08-13T02:07:53.363Z"
+  },
+  {
+    "id": "7673bf89-0736-4be0-ae29-f81433648ef3",
+    "filename": "1755050183326_7673bf89-0736-4be0-ae29-f81433648ef3_2024_fall_lecture0-720p-en.txt",
+    "url": "/uploads/1755050183326_7673bf89-0736-4be0-ae29-f81433648ef3_2024_fall_lecture0-720p-en.txt",
+    "vehicleId": "v1",
+    "docType": "CVOR",
+    "expiry": "2026-08-13",
+    "notes": null,
+    "uploadedAt": "2025-08-13T01:56:23.327Z"
+  }
+]
